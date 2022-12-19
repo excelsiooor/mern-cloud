@@ -1,5 +1,6 @@
 {
   "serverPort" : 5000,
   "dbUrl": "mongodb+srv://xoma:Xi85ydwvEdgpw0w7@initialcluster.rh8c7xd.mongodb.net/mern-cloud?retryWrites=true&w=majority",
-  "secretKey": "mern-secket-key"
+  "secretKey": "mern-secket-key",
+  "filePath": "C:\\Users\\Lenovo\\Git\\mern-cloud\\server\\files"
 }
